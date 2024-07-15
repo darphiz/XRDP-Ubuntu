@@ -14,7 +14,7 @@ Easily set up an XRDP server on your Ubuntu VM with this automated script.
 1. **Download and Run the Script:**
 
    ```bash
-   wget https://example.com/setup_xrdp.sh -O setup_xrdp.sh
+   wget  https://raw.githubusercontent.com/darphiz/XRDP-Ubuntu/b32ea38485a28e73140932691b0d7b2210ea7e10/install.sh -O setup_xrdp.sh
    chmod +x setup_xrdp.sh
    sudo ./setup_xrdp.sh
    ```
